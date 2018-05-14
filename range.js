@@ -7,7 +7,7 @@ function range(start, end, step) {
       array.push(i);
     }
   }
-return array;
+  return array;
 }
 
 
